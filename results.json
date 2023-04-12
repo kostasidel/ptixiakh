@@ -1,0 +1,6 @@
+{
+      "0": {
+            "classifier": "Isolation Forest",
+            "sensor": "atmos",
+            "data_results": {
+                  "train_scores": 
